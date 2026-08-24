@@ -1,0 +1,58 @@
+{
+ "work": {
+  "slug": "craftsman-workshop-hands",
+  "dosya": "unsplash-3cIvvzjE6Lk.jpg",
+  "isik": 153.8,
+  "sicak": 93.7,
+  "koyu": 0.0286
+ },
+ "education": {
+  "slug": "law-library-legal-books-shelves",
+  "dosya": "pexels-8850747.jpg",
+  "isik": 170.3,
+  "sicak": 48.2,
+  "koyu": 0.0344
+ },
+ "family": {
+  "slug": "modern-apartment-living-room-window-light",
+  "dosya": "pexels-8092188.jpg",
+  "isik": 177.7,
+  "sicak": 35.5,
+  "koyu": 0.0188
+ },
+ "settlement": {
+  "slug": "german-residential-street-houses",
+  "dosya": "pexels-36480388.jpg",
+  "isik": 132.7,
+  "sicak": 54.3,
+  "koyu": 0.1507
+ },
+ "jobsearch": {
+  "slug": "planner-notebook-checklist-pen-coffee-desk-flat-lay",
+  "dosya": "pexels-33136474.jpg",
+  "isik": 183.0,
+  "sicak": 33.3,
+  "koyu": 0.0267
+ },
+ "selfemployed": {
+  "slug": "creative-studio-desk-minimal-workspace",
+  "dosya": "unsplash-KHeILQy5c-k.jpg",
+  "isik": 149.6,
+  "sicak": 55.0,
+  "koyu": 0.0277
+ },
+ "citizenship": {
+  "slug": "town-hall-interior-staircase",
+  "dosya": "pexels-38924070.jpg",
+  "isik": 125.4,
+  "sicak": 86.5,
+  "koyu": 0.1447
+ },
+ "cultural": {
+  "slug": "farmers-market-stall-vegetables-europe",
+  "dosya": "pexels-868110.jpg",
+  "isik": 134.3,
+  "sicak": 23.5,
+  "koyu": 0.0982
+ }
+}

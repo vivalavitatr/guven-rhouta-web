@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Güven-Rhouta Solutions</title>
+<meta name="robots" content="noindex, follow">
+<link rel="canonical" href="https://www.guven-rhouta.com/en/">
+<link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/">
+<link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/">
+<link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/">
+<link rel="alternate" hreflang="x-default" href="https://www.guven-rhouta.com/en/">
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<script>
+(function () {
+  try {
+    var d = "en";
+    var tz = "";
+    try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ""; } catch (e) {}
+    var diller = (navigator.languages || [navigator.language || ""]).join(",").toLowerCase();
+    var almanca = ["Europe/Berlin","Europe/Vienna","Europe/Zurich","Europe/Busingen","Europe/Vaduz","Europe/Luxembourg"];
+    var turkce = ["Europe/Istanbul","Asia/Istanbul","Asia/Nicosia","Europe/Nicosia"];
+    if (turkce.indexOf(tz) > -1 || /(^|,)tr\b/.test(diller)) d = "tr";
+    else if (almanca.indexOf(tz) > -1 || /(^|,)de\b/.test(diller)) d = "de";
+    location.replace("/" + d + "/");
+  } catch (e) {
+    location.replace("/en/");
+  }
+})();
+</script>
+<noscript><meta http-equiv="refresh" content="0; url=/en/"></noscript>
+<style>
+  body{margin:0;min-height:100vh;display:grid;place-items:center;background:#f1f2f8;color:#15171f;
+       font-family:system-ui,-apple-system,Segoe UI,sans-serif}
+  ul{list-style:none;display:flex;gap:1.5rem;padding:0}
+  a{color:#3f3a9e}
+</style>
+</head>
+<body>
+<main>
+  <h1>Güven-Rhouta Solutions</h1>
+  <ul>
+    <li><a href="/tr/" hreflang="tr">Türkçe</a></li>
+    <li><a href="/de/" hreflang="de">Deutsch</a></li>
+    <li><a href="/en/" hreflang="en">English</a></li>
+  </ul>
+</main>
+</body>
+</html>
