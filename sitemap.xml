@@ -9,26 +9,10 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.guven-rhouta.com/tr/oturum-turleri/</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/oturum-turleri/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/aufenthaltsarten/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/residence-types/"/>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.guven-rhouta.com/tr/hizmetler/</loc>
     <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/hizmetler/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/leistungen/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/services/"/>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.guven-rhouta.com/tr/surec/</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/surec/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/ablauf/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/process/"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -65,6 +49,38 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.guven-rhouta.com/tr/kunye/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/kunye/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/impressum/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/impressum/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.guven-rhouta.com/tr/gizlilik/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/gizlilik/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/datenschutz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/privacy/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.guven-rhouta.com/tr/sorumluluk/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/sorumluluk/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/haftung/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/disclaimer/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.guven-rhouta.com/tr/sartlar/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/sartlar/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/agb/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/terms/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.guven-rhouta.com/de/</loc>
     <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/"/>
@@ -73,26 +89,10 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.guven-rhouta.com/de/aufenthaltsarten/</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/oturum-turleri/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/aufenthaltsarten/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/residence-types/"/>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.guven-rhouta.com/de/leistungen/</loc>
     <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/hizmetler/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/leistungen/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/services/"/>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.guven-rhouta.com/de/ablauf/</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/surec/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/ablauf/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/process/"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -129,6 +129,38 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.guven-rhouta.com/de/impressum/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/kunye/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/impressum/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/impressum/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.guven-rhouta.com/de/datenschutz/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/gizlilik/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/datenschutz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/privacy/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.guven-rhouta.com/de/haftung/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/sorumluluk/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/haftung/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/disclaimer/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.guven-rhouta.com/de/agb/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/sartlar/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/agb/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/terms/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.guven-rhouta.com/en/</loc>
     <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/"/>
@@ -137,26 +169,10 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.guven-rhouta.com/en/residence-types/</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/oturum-turleri/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/aufenthaltsarten/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/residence-types/"/>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.guven-rhouta.com/en/services/</loc>
     <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/hizmetler/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/leistungen/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/services/"/>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.guven-rhouta.com/en/process/</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/surec/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/ablauf/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/process/"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -189,6 +205,38 @@
     <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/iletisim/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/kontakt/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/contact/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.guven-rhouta.com/en/impressum/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/kunye/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/impressum/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/impressum/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.guven-rhouta.com/en/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/gizlilik/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/datenschutz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/privacy/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.guven-rhouta.com/en/disclaimer/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/sorumluluk/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/haftung/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/disclaimer/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.guven-rhouta.com/en/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/sartlar/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/agb/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/terms/"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
