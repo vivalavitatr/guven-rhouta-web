@@ -30,7 +30,7 @@
 <script>
 (function () {
   try {
-    var d = "en";
+    var d = "de";
     var tz = "";
     try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ""; } catch (e) {}
     var diller = (navigator.languages || [navigator.language || ""]).join(",").toLowerCase();
@@ -38,13 +38,14 @@
     var turkce = ["Europe/Istanbul","Asia/Istanbul","Asia/Nicosia","Europe/Nicosia"];
     if (turkce.indexOf(tz) > -1 || /(^|,)tr\b/.test(diller)) d = "tr";
     else if (almanca.indexOf(tz) > -1 || /(^|,)de\b/.test(diller)) d = "de";
+    else if (/(^|,)en\b/.test(diller)) d = "en";
     location.replace("/" + d + "/");
   } catch (e) {
-    location.replace("/en/");
+    location.replace("/de/");
   }
 })();
 </script>
-<noscript><meta http-equiv="refresh" content="0; url=/en/"></noscript>
+<noscript><meta http-equiv="refresh" content="0; url=/de/"></noscript>
 <style>
   body{margin:0;min-height:100vh;display:grid;place-items:center;background:#f1f2f8;color:#15171f;
        font-family:system-ui,-apple-system,Segoe UI,sans-serif}
