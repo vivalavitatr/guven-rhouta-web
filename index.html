@@ -10,9 +10,16 @@
      kimlik kaydı ve simgeler burada duruyor. -->
 <link rel="canonical" href="https://www.guven-rhouta.com/tr/">
 <link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/">
+<link rel="alternate" hreflang="tr-TR" href="https://www.guven-rhouta.com/tr/">
+<link rel="alternate" hreflang="tr-CY" href="https://www.guven-rhouta.com/tr/">
 <link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/">
+<link rel="alternate" hreflang="de-DE" href="https://www.guven-rhouta.com/de/">
+<link rel="alternate" hreflang="de-AT" href="https://www.guven-rhouta.com/de/">
+<link rel="alternate" hreflang="de-CH" href="https://www.guven-rhouta.com/de/">
+<link rel="alternate" hreflang="de-LI" href="https://www.guven-rhouta.com/de/">
+<link rel="alternate" hreflang="de-LU" href="https://www.guven-rhouta.com/de/">
 <link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/">
-<link rel="alternate" hreflang="x-default" href="https://www.guven-rhouta.com/tr/">
+<link rel="alternate" hreflang="x-default" href="https://www.guven-rhouta.com/en/">
 <!-- Simge adresleri BİLEREK yeni (26 Ağustos 2026). Google simgeyi konak ve
      adres bazlı önbelleğe alıyor; bu alan adının ilk izlenimi GoDaddy park
      sayfasıydı ve /favicon.ico için boş ev simgesi önbelleğe girmişti. Aynı
@@ -36,7 +43,7 @@
 <script>
 (function () {
   try {
-    var d = "de";
+    var d = "en";
     var tz = "";
     try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ""; } catch (e) {}
     var diller = (navigator.languages || [navigator.language || ""]).join(",").toLowerCase();
@@ -47,11 +54,11 @@
     else if (/(^|,)en\b/.test(diller)) d = "en";
     location.replace("/" + d + "/");
   } catch (e) {
-    location.replace("/de/");
+    location.replace("/en/");
   }
 })();
 </script>
-<noscript><meta http-equiv="refresh" content="0; url=/de/"></noscript>
+<noscript><meta http-equiv="refresh" content="0; url=/en/"></noscript>
 <style>
   body{margin:0;min-height:100vh;display:grid;place-items:center;background:#f1f2f8;color:#15171f;
        font-family:system-ui,-apple-system,Segoe UI,sans-serif}
