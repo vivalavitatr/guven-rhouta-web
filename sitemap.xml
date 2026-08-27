@@ -9,40 +9,19 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.guven-rhouta.com/tr/hizmetler/</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/hizmetler/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/leistungen/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/services/"/>
+    <loc>https://www.guven-rhouta.com/de/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/"/>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.guven-rhouta.com/tr/gundem/</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/gundem/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/aktuelles/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/updates/"/>
+    <loc>https://www.guven-rhouta.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/"/>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.guven-rhouta.com/tr/sss/</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/sss/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/faq/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/faq/"/>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.guven-rhouta.com/tr/iletisim/</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/tr/iletisim/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/kontakt/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/contact/"/>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.guven-rhouta.com/tr/gundem/ba-ucret-2025/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>1.0</priority>
   </url>
 </urlset>
