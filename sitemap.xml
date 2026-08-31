@@ -2,25 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.guven-rhouta.com/</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/"/>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.guven-rhouta.com/de/</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/"/>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.guven-rhouta.com/en/</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.guven-rhouta.com/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.guven-rhouta.com/de/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.guven-rhouta.com/en/"/>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
